@@ -12,5 +12,5 @@
 ![png](image/jwt%20방식%20응답%20시간.png)
 
 ### SESSION 기반 로그인 방식
-[!png](image/session%20방식%20cpu%20사용률.png)
-[!png](image/session%20방식%20응답%20시간.png)
+![png](image/session%20방식%20cpu%20사용률.png)
+![png](image/session%20방식%20응답%20시간.png)
